@@ -1,0 +1,3 @@
+C:/Users/henri/CLionProjects/campominado/cmake-build-debug/CMakeFiles/campominado.dir
+C:/Users/henri/CLionProjects/campominado/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/henri/CLionProjects/campominado/cmake-build-debug/CMakeFiles/rebuild_cache.dir
